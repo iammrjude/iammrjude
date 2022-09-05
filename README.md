@@ -62,13 +62,6 @@ Hi there, I'm <a href="https://github.com/iammrjude" target="_blank" rel="norefe
 * DeFi
 * GameFi
 * DAOs
-
-## 🔭 My work:
-  
-* StabilityDAO, ReactSwap
-* Archangel Token
-* Rainbow X
-<h4 align="center">
  
 ## 🌱 Experience
  - Built ERC20 Tokens, Deflationary Tokens Minting, Staking, Multi Rewards Staking
