@@ -64,7 +64,7 @@ Hi there, I'm <a href="https://github.com/iammrjude" target="_blank" rel="norefe
 * DAOs
  
 ## 🌱 Experience
- - Built ERC20 Tokens, Deflationary Tokens Minting, Staking, Multi Rewards Staking
+ - Built ERC20 Tokens, Deflationary Tokens, Minting, Staking, Multi Rewards Staking
  - Built DEXs, Defi, DAO on EVM, BSC, Polygon and Heco
 <p>
 
