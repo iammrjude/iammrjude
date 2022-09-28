@@ -27,7 +27,7 @@ Hi there, I'm <a href="https://github.com/iammrjude" target="_blank" rel="norefe
 
 <a href="https://discordapp.com/users/jude#6067"><img align="left" src="https://raw.githubusercontent.com/iammrjude/iammrjude/main/images/discord.svg" alt="Jude | Discord" width="24px"/></a>
 <a href="https://t.me/jude_Dev"><img align="left" src="https://raw.githubusercontent.com/iammrjude/iammrjude/main/images/telegram.svg" alt="Jude | Telegram" width="24px"/></a>
-<a href="mailto:judeabara9@gmail.com"><img align="left" src="https://raw.githubusercontent.com/iammrjude/iammrjude/main/images/email.svg" alt="Jude | Email" width="24px"/></a>
+<a href="mailto:judedev406@gmail.com"><img align="left" src="https://raw.githubusercontent.com/iammrjude/iammrjude/main/images/email.svg" alt="Jude | Email" width="24px"/></a>
 </br>
  - 💬 If you have any question/feedback or any freelancer work, please do not hesitate to reach out to me!
 
