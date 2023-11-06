@@ -18,7 +18,7 @@ Hi there, I'm <a href="https://github.com/iammrjude" target="_blank" rel="norefe
 </h3>
 
 ### Welcome to my github profile :beach_umbrella:
-![visitors](https://visitor-badge.deta.dev/badge?page_id=iammrjude/iammrjude)
+![](https://komarev.com/ghpvc/?username=iammrjude)
 
 ### I'm a passionate software developer always ready to learn new technologies. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 ### 4+ years of Python and Web development & 2+ years of Blockchain experience on EVM, BSC, Polygon, Heco, Avalanche
