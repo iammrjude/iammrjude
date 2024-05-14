@@ -54,9 +54,9 @@ Hi there, I'm <a href="https://github.com/iammrjude" target="_blank" rel="norefe
 
 ## **GitHub Stats**
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iammrjude&count_private=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iammrjude&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iammrjude&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iammrjude&hide=html&layout=compact&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My interests
 * DeFi
